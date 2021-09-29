@@ -71,6 +71,5 @@ public class JPTV20Task4ErikSalmin {
         System.out.println("Среднее = " + mid / newnumbers.length);
     }
 }
-    }
+   
     
-}
